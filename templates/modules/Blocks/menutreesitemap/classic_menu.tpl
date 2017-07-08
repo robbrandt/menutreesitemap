@@ -1,0 +1,1 @@
+{include file='menutreesitemap/default_menu.tpl'}
